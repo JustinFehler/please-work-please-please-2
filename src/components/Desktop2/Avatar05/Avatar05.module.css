@@ -1,0 +1,17 @@
+.root {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  align-items: flex-start;
+}
+.avatar05 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/avatar05.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

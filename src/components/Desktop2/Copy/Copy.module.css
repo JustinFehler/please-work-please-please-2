@@ -1,0 +1,28 @@
+.root {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  align-items: flex-start;
+}
+.rectangle {
+  position: absolute;
+  left: 25%;
+  right: 0;
+  top: 25%;
+  bottom: 0;
+  outline: solid 1px #1f2937;
+  outline-offset: -1px;
+  border-radius: 3px;
+}
+.vector {
+  position: absolute;
+  left: 0;
+  right: 31.25%;
+  top: 0;
+  bottom: 31.25%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

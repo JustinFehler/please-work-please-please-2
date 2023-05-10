@@ -1,0 +1,85 @@
+.root {
+  position: relative;
+  width: 20px;
+  height: 22.4216px;
+  align-items: flex-start;
+}
+.vector9 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+  filter: drop-shadow(0px 1px 1px #00000080);
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vector10 {
+  position: absolute;
+  left: 64.5307%;
+  right: 13.4609%;
+  top: 25.7389%;
+  bottom: 60.5653%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.vector11 {
+  position: absolute;
+  left: 45.1116%;
+  right: 34.1746%;
+  top: 23.2694%;
+  bottom: 61.1126%;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.vector12 {
+  position: absolute;
+  left: 51.5846%;
+  right: 48.4154%;
+  top: 54.4469%;
+  bottom: 22.4574%;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.vector15 {
+  position: absolute;
+  left: 65.8253%;
+  right: 34.1747%;
+  top: 54.4469%;
+  bottom: 22.4574%;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.vector14 {
+  position: absolute;
+  left: 80.066%;
+  right: 19.934%;
+  top: 54.4469%;
+  bottom: 22.4574%;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}

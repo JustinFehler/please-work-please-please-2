@@ -1,0 +1,8 @@
+._badgeAndTag._badgeAndTag {
+  align-self: flex-start;
+  border-radius: 999px;
+}
+.root {
+  width: min-content;
+  height: min-content;
+}

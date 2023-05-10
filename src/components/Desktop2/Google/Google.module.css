@@ -1,0 +1,55 @@
+.root {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.vector {
+  position: absolute;
+  left: 49.935%;
+  right: 2.1276%;
+  top: 40.8751%;
+  bottom: 12.0625%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 5.368%;
+  right: 16.9832%;
+  top: 59.8749%;
+  bottom: 0.0001%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.vector3 {
+  position: absolute;
+  left: 0;
+  right: 78.4656%;
+  top: 27.3125%;
+  bottom: 27.5626%;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.vector4 {
+  position: absolute;
+  left: 5.3057%;
+  right: 16.6711%;
+  top: 0;
+  bottom: 59.875%;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
